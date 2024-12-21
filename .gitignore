@@ -1,0 +1,26 @@
+# Compiled Object files
+**/bin/
+**/obj/
+
+# Visual Studio files
+*.suo
+*.user
+*.sln.docstates
+*.csproj.user
+_ReSharper.*
+
+# Package Restore Folders
+packages/
+
+# Build artifacts
+*.exe
+*.dll
+*.pdb
+*.ilk
+*.resources
+*.cache
+*.log
+
+# System files
+Thumbs.db
+*.DS_Store
